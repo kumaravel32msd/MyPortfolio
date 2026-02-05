@@ -1,0 +1,17 @@
+{
+    "$schema": "https://json.schemastore.org/package",
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "Professional Portfolio Website",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "Kumaravel B",
+    "license": "ISC",
+    "devDependencies": {
+        "vite": "^5.0.0"
+    }
+}
